@@ -47,3 +47,5 @@ Ident has park kind arch benefit.
 Ident has park kind arch marry.
 
 Ident has park kind arch land.
+
+Ident has major.
