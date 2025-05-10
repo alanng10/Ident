@@ -48,4 +48,8 @@ Ident has park kind arch marry.
 
 Ident has park kind arch land.
 
+Ident has park mark.
+
+Ident has park cross.
+
 Ident has major.
